@@ -1,4 +1,2 @@
-*.swp
-_site
 instrumented/
 tests/coverage.html
